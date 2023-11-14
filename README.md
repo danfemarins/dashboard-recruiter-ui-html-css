@@ -1,30 +1,20 @@
-******************************************************************************
-                                                                   ,--,
-                                       ,--.                     ,---.'|
-    ,---,        ,---,               ,--.'|    ,---,     ,---,. |   | :
-  .'  .' `\     '  .' \          ,--,:  : | ,`--.' |   ,'  .' | :   : |
-,---.'     \   /  ;    '.     ,`--.'`|  ' : |   :  : ,---.'   | |   ' :
-|   |  .`\  | :  :       \    |   :  :  | | :   |  ' |   |   .' ;   ; '
-:   : |  '  | :  |   /\   \   :   |   \ | : |   :  | :   :  |-, '   | |__
-|   ' '  ;  : |  :  ' ;.   :  |   : '  '; | '   '  ; :   |  ;/| |   | :.'|
-'   | ;  .  | |  |  ;/  \   \ '   ' ;.    ; |   |  | |   :   .' '   :    ; .ch
-|   | :  |  ' '  :  | \  \ ,' |   | | \   | '   :  ; |   |  |-, |   |  ./
-'   : | /  ;  |  |  '  '--'   '   : |  ; .' |   |  ' '   :  ;/| ;   : ;
-|   | '` ,/   |  :  :         |   | '`--'   '   :  | |   |    \ |   ,/
-;   :  .'     |  | ,'         '   : |       ;   |.'  |   :   .' '---'
-|   ,.'       `--''           ;   |.'       '---'    |   | ,'
-'---'                         '---'                  `----'
-******************************************************************************
+                                                                            
 
-# Dashboard UI
+# Dashboard UI - Recrutador
 
-<h1>Daniel Felipe</h1>
-Talento Nato desda Infância! 
+## Sobre o Projeto
 
-Seja Cauteloso pois tem gente olhando o.0
+Bem-vindo ao Dashboard UI para Recrutadores, criado por Daniel Felipe. Este projeto oferece uma interface moderna e intuitiva para facilitar o acompanhamento de candidatos e tarefas relacionadas ao processo de recrutamento.
 
-<a href="https://www.instagram.com/danielmarinsoficial//">Instagram</a>.
-<a href="https://t.me/Anomcy15">Telegram</a>.
+## Sobre o Autor
 
-Ajuda muito o meu Trabalho.# dashboard-recruiter-ui-html-css
-# dashboard-recruiter-ui-html-css
+Olá, eu sou Daniel Felipe, um talento nato desde a infância! Este projeto reflete minha paixão pelo design e pela criação de soluções visuais impactantes.
+
+**Dica:** Seja cauteloso, pois tem gente olhando o.0
+
+### Conecte-se comigo
+
+- [Instagram](https://www.instagram.com/danielmarinsoficial/)
+- [Telegram](https://t.me/Anomcy15)
+
+Se você gostou do projeto ou tem sugestões, fique à vontade para contribuir. Sua ajuda é valiosa para o aprimoramento contínuo do Dashboard UI.
